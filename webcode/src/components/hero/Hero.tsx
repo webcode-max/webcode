@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 // Image imports (using your provided path)
 import heroBg from "../../images/bg/hero_bg.png";

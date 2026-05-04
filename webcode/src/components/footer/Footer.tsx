@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 // Image imports
 import footerBg from "../../images/bg/footer-bg.png";

@@ -1,7 +1,7 @@
 {
-  "name": "Aivora",
+  "name": "Webcode",
   "version": "0.1.0",
-  "homepage": "https://aivora-react.netlify.app",
+  "homepage": "https://webcode-react.netlify.app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",

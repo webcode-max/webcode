@@ -11,7 +11,7 @@ import gif3 from "../../images/icon/b10c3e43e836d32554bf.gif";
 import img01 from "../../images/about/img01.png";
 import img02 from "../../images/about/img02.png";
 import img03 from "../../images/about/img03.png";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 
 const AboutSection: React.FC = () => {
@@ -57,7 +57,7 @@ const AboutSection: React.FC = () => {
                 >
                   <img 
                     src={img} 
-                    alt={`about-${idx + 1}`} 
+                    alt={`Webcode AI Solutions - Visual ${idx + 1}`} 
                     style={{ width: '633px', height: '455px', objectFit: 'cover' }} 
                   />
                 </a>
